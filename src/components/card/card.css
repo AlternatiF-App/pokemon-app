@@ -1,0 +1,15 @@
+.card{
+    background-color: white;
+    padding: 5px;
+    height: 150px;
+}
+
+.card-img{
+    text-align: center;
+}
+
+.card-name{
+    text-align: center;
+    font-size: larger;
+    font-weight: bold;
+}
